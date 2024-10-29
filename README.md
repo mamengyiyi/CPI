@@ -26,5 +26,5 @@ python main.py --env pen-human-v1 --qweight=100.0 --aweight=0.5  --reward_standa
 ```
 
 ## Result
-![image](https://github.com/hahahaCode/CPI/blob/main/mujoco-antmaze-pen-performance.png)
+![image](mujoco-antmaze-pen-performance.png)
 
